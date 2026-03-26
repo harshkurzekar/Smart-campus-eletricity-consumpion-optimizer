@@ -4,7 +4,7 @@
 A Machine Learning Approach to Smart Building Management
 📌 Project Overview
 The Campus Energy Optimizer is a predictive maintenance and automation tool designed to reduce electricity wastage in university environments. By analyzing environmental data (Temperature, Light, CO2, Humidity), this Python-based ML model predicts room occupancy to automate lighting and HVAC systems.
-This project fulfills the Bring Your Own Project (BYOP) requirement by applying fundamental AI/ML concepts to a real-world sustainability challenge.
+
 🛠️ Features
  * Real-time Prediction: Classifies room status as Occupied or Vacant.
  * Data-Driven Insights: Visualizes which factors (like CO2 levels) most strongly indicate human presence.
